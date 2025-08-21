@@ -66,4 +66,4 @@ All credits go to the original (https://github.com/lande519/universal-dive/commi
 ---
 
 ## License
-This project is based on open-source code from the original (https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1)[**Universal Dive**]. All modifications and additions will continue to be released under the same license for others to use, learn from, and build upon.
+This project is based on open-source code from the original [**Universal Dive**](https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1). All modifications and additions will continue to be released under the same license for others to use, learn from, and build upon.
