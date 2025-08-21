@@ -26,7 +26,7 @@ discord - https://discord.gg/kMZvmd234Z
 
 youtube - https://www.youtube.com/channel/UC-jKm8QMly7yAkb-atkG13g?sub_confirmation=1
 
-All credits go to the UD team:
+**All credits go to the UD team:**
 
 Ralcactus (Main Developer/Musician? /Artist/Creator) *Early builds of Universal Dive included Ralcactus as a musician in the credits*
 
