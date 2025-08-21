@@ -51,7 +51,7 @@ If you’re interested in helping, feel free to reach out! You can contact me on
 ---
 
 ## Credits
-All credits go to the original (https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1)[**Universal Dive**] team and contributors across its history:
+All credits go to the original [**Universal Dive**](https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1) team and contributors across its history:
 
 - **Ralcactus** – Lead Developer, Musician?, Artist, Creator (early builds included him as musician)  
 - **The_Bird** – Developer  
