@@ -45,12 +45,13 @@ If you’re interested in helping, feel free to reach out! You can contact me on
 ## Community & Support
 - **Discord**: [Join here](https://discord.gg/kMZvmd234Z)  
 - **YouTube**: [Subscribe here](https://www.youtube.com/channel/UC-jKm8QMly7yAkb-atkG13g?sub_confirmation=1)
-  (id probably post this in extras but ill change the url to my extras channel if that happens)
+
+(id probably post this in extras but ill change the url to my extras channel if that happens)
 
 ---
 
 ## Credits
-All credits go to the original **Universal Dive** team and contributors across its history:
+All credits go to the original (https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1)[**Universal Dive**] team and contributors across its history:
 
 - **Ralcactus** – Lead Developer, Musician?, Artist, Creator (early builds included him as musician)  
 - **The_Bird** – Developer  
@@ -58,9 +59,11 @@ All credits go to the original **Universal Dive** team and contributors across i
 - **Coblasteus** – Developer, Musician, Promotion  
 - **Benith** – Artist  
 - **Shoobygeeks** – Artist  
-- **DylanIO** – Musician 
+- **DylanIO** – Musician
+
+(Most of the team don't have GitHub so they aren't in the original project's collaboration list)
 
 ---
 
 ## License
-This project is based on open-source code from the original **Universal Dive**. All modifications and additions will continue to be released under the same license for others to use, learn from, and build upon.
+This project is based on open-source code from the original (https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1)[**Universal Dive**]. All modifications and additions will continue to be released under the same license for others to use, learn from, and build upon.
