@@ -2,7 +2,7 @@
 
 Welcome to **Universal Dive Continued**!  
 
-This project is a continuation of the original **Universal Dive** game, based specifically on [this historical build](https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1) of the GDevelop version.  
+This project is a continuation of the original **Universal Dive** game, based specifically on [this historical branch](https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1) of the GDevelop version.  
 It is **not** a fork of the original repository because the official project later shifted to a GameMaker build, while this continuation focuses on the classic GDevelop version.
 
 ---
@@ -15,8 +15,8 @@ The story follows **Lande**, a villager whose peaceful life is interrupted when 
 ---
 
 ## Why This Project Exists
-After Brick Brothers disbanded and the original GDevelop build was replaced with a GameMaker rework, the original version of **Universal Dive** was left behind.  
-This project exists to **continue and preserve the GDevelop build**, fixing old issues and expanding on the content while staying true to the original vision.
+After Brick Brothers disbanded and the original GDevelop version was replaced with a GameMaker remake, the original version of **Universal Dive** was left behind.  
+This project exists to **continue and preserve the GDevelop version**, fixing old issues and expanding on the content while staying true to the original vision.
 
 ---
 
