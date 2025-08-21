@@ -32,10 +32,10 @@ This project exists to **continue and preserve the GDevelop version**, fixing ol
 ## Q&A
 
 ### Why continue Universal Dive?
-Many of us spent a long time working on the original version, and it was sad to see that effort abandoned when the project shifted engines. This continuation is meant to bring new life to the GDevelop build, while keeping the spirit of the original game intact.  
+Many of us spent a long time working on the original version, and it was sad to see that effort abandoned when the project shifted engines. This continuation is meant to bring new life to the GDevelop version, while keeping the spirit of the original game intact.  
 
 ### Why isn’t this a fork of the original repository?
-Forking would link this project to the current GameMaker build, which isn’t what this continuation is based on. Instead, this project draws from a specific archived version of the original GDevelop code.  
+Forking would link this project to the current GameMaker version, which isn’t what this continuation is based on. Instead, this project draws from a specific archived version of the original GDevelop code.  
 
 ### How can I contribute?
 If you’re interested in helping, feel free to reach out! You can contact me on Discord or through the community links below. Contributions in coding, art, music, or testing are all welcome.  
@@ -44,12 +44,13 @@ If you’re interested in helping, feel free to reach out! You can contact me on
 
 ## Community & Support
 - **Discord**: [Join here](https://discord.gg/kMZvmd234Z)  
-- **YouTube**: [Subscribe here](https://www.youtube.com/channel/UC-jKm8QMly7yAkb-atkG13g?sub_confirmation=1)  
+- **YouTube**: [Subscribe here](https://www.youtube.com/channel/UC-jKm8QMly7yAkb-atkG13g?sub_confirmation=1)
+  (id probably post this in extras but ill change the url to my extras channel if that happens)
 
 ---
 
 ## Credits
-All credits go to the **Universal Dive** team and contributors across its history:
+All credits go to the original **Universal Dive** team and contributors across its history:
 
 - **Ralcactus** – Lead Developer, Musician?, Artist, Creator (early builds included him as musician)  
 - **The_Bird** – Developer  
