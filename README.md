@@ -54,13 +54,10 @@ All credits go to the **Universal Dive** team and contributors across its histor
 - **Ralcactus** – Lead Developer, Musician?, Artist, Creator (early builds included him as musician)  
 - **The_Bird** – Developer  
 - **Archer** – Developer  
-- **Coblasteus** – Lead Developer (since Aug. 2025), Musician, Promotion  
+- **Coblasteus** – Developer, Musician, Promotion  
 - **Benith** – Artist  
 - **Shoobygeeks** – Artist  
-- **DylanIO** – Musician  
-- **00kanji** – Musician (though no tracks were completed)  
-- **Foxajn** – Concept Art  
-- **Links_the_falink** – Ideas  
+- **DylanIO** – Musician 
 
 ---
 
