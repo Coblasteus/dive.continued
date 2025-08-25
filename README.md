@@ -1,6 +1,6 @@
-# Universal Dive Continued
+# DIVE.CONTINUED
 
-Welcome to **Universal Dive Continued**!  
+Welcome to **DIVE.CONTINUED**!  
 
 This project is a continuation of the original **Universal Dive** game, based specifically on [this historical branch](https://github.com/lande519/universal-dive/commit/da4ac611a9caea8ac8ac7d4968cae67d6f74f3c1) of the GDevelop version.  
 It is **not** a fork of the original repository because the official project later shifted to a GameMaker build, while this continuation focuses on the classic GDevelop version.
@@ -43,10 +43,9 @@ If you’re interested in helping, feel free to reach out! You can contact me on
 ---
 
 ## Community & Support
-- **Discord**: [Join here](https://discord.gg/kMZvmd234Z)  
-- **YouTube**: [Subscribe here](https://www.youtube.com/channel/UC-jKm8QMly7yAkb-atkG13g?sub_confirmation=1)
-
-(id probably post this in extras but ill change the url to my extras channel if that happens)
+- **Discord**: [Join here](https://discord.gg/kagdhFgvmp)
+- **CoblasteusExtras YouTube**: [Subscribe here](youtube.com/@coblasteusextras)
+- **Coblasteus Discord (unrelated to the rest of the project)**: [Join here](https://discord.gg/kMZvmd234Z)  
 
 ---
 
