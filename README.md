@@ -25,7 +25,7 @@ This project exists to **continue and preserve the GDevelop version**, fixing ol
 - **July 2024** – Entered into a coding competition, featuring only the *Cheesy Moon* due to size limits.  
 - **September 2024** – Declared “finished,” though many planned levels were removed.  
 - **Late 2024** – Source code was replaced by a GameMaker project; the GDevelop build survived only in GitHub history.  
-- **August 2025** – Revived as **Universal Dive Continued**, now being developed independently.  
+- **August 2025** – Revived as **Universal Dive Continued** (now **DIVE.CONTINUED**), now being developed independently.  
 
 ---
 
