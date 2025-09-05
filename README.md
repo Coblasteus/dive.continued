@@ -44,7 +44,7 @@ If you’re interested in helping, feel free to reach out! You can contact me on
 
 ## Community & Support
 - **Discord**: [Join here](https://discord.gg/kagdhFgvmp)
-- **CoblasteusExtras YouTube**: [Subscribe here](youtube.com/@coblasteusextras)
+- **CoblasteusExtras YouTube**: [Subscribe here](https://youtube.com/@coblasteusextras)
 - **Coblasteus Discord (unrelated to the rest of the project)**: [Join here](https://discord.gg/kMZvmd234Z)  
 
 ---
